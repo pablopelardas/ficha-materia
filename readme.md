@@ -1,4 +1,4 @@
-# Ejercicio: Página "Sobre mí"
+# Ejercicio: HTML Etiquetas
 
 **Ver ejercicio resuelto:** [https://pablopelardas.github.io/ficha-materia/DisenioYDesarrolloWeb.html](https://pablopelardas.github.io/ficha-materia/DisenioYDesarrolloWeb.html)
 
