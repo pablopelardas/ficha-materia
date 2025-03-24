@@ -1,6 +1,6 @@
 # Ejercicio: Página "Sobre mí"
 
-**Ver ejercicio resuelto:** [https://pablopelardas.github.io/ficha-personal-uade/PresentaPabloPelardas.html](https://pablopelardas.github.io/ficha-personal-uade/PresentaPabloPelardas.html)
+**Ver ejercicio resuelto:** [https://pablopelardas.github.io/ficha-materia/DisenioYDesarrolloWeb.html](https://pablopelardas.github.io/ficha-materia/DisenioYDesarrolloWeb.html)
 
 ## Instrucciones
 
